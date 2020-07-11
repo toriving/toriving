@@ -1,10 +1,10 @@
 <div align=left>
 
-#### About me
+### About me
 - Dongju Park
 - Research Scientist / Engineer @ NAVER 
 
-#### Interest
+### Interest
 - Machine Learning
 - Natural Language Processing
 - Generative Model
