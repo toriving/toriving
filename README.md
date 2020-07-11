@@ -1,10 +1,7 @@
-<div align=center>
-
-### Dongju Park
-
 <div align=left>
 
-#### Research Scientist / Engineer
+#### About me
+- Dongju Park
 - Research Scientist / Engineer @ NAVER 
 
 #### Interest
