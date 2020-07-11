@@ -1,4 +1,8 @@
+<div align=center>
+
 ### Dongju Park
+
+<div align=left>
 
 #### Research Scientist / Engineer
 - Research Scientist / Engineer @ NAVER 
