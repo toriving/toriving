@@ -2,7 +2,7 @@
 
 ### About me
 - Dongju Park
-- Research Scientist / Engineer @ NAVER 
+- Machine Learning Scientist / Engineer @ NAVER 
 
 ### Interest
 - Machine Learning
