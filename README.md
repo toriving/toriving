@@ -6,9 +6,9 @@
 
 ### Interest
 - Natural Language Processing
-- Generative Model
+- Large Language Model
+- Vision-Language Model
 - Semi-Supervised Learning
-- Data Augmentation
 
 
 
