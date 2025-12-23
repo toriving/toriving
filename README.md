@@ -2,13 +2,14 @@
 
 ### About me
 - Dongju Park
-- Machine Learning Scientist / Engineer @ NAVER 
+- Quantitative Researcher @ Hyperithm
+- (prev) Machine Learning Scientist / Engineer @ NAVER 
 
 ### Interest
+- Blockchain
+- DeFI
 - Natural Language Processing
-- Large Language Model
-- Vision-Language Model
-- Semi-Supervised Learning
+- LLM / VLM
 
 
 
