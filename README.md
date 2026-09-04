@@ -2,7 +2,7 @@
 
 ### About me
 - Dongju Park
-- Quantitative Researcher @ Hyperithm
+- (prev) Quantitative Researcher @ Hyperithm
 - (prev) Machine Learning Scientist / Engineer @ NAVER 
 
 ### Interest
